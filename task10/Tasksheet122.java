@@ -9,7 +9,7 @@ class Student {
         this.lastName = lastName;
     }
 
-    // ito ung method to print the full name
+    // ito ung method to print the full name hehe
     public void printFullName() {
         System.out.println(firstName + " " + lastName);
     }
