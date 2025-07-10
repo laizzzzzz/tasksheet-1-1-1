@@ -1,7 +1,7 @@
-package ArithmeticOp;
+package task7;
 import java.util.Scanner;
 //arithmetic operations 4hehe... on two numbers
-public class Task7 {
+public class ArithmeticOp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("First Number: "); double a = sc.nextDouble();
