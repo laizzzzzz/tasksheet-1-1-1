@@ -1,4 +1,4 @@
-public class Task3 {
+public class task3 {
     public static void main(String[] args) {
         String a = "Wow!";
         String b = "Wow";
