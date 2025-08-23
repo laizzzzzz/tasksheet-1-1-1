@@ -12,6 +12,6 @@ This repository documents the full set of exercises and activities under the TES
 
 > ✅ Completed as part of the TESDA TWSP initiative  
 > 🗂️ Verified submissions through the CIICC Activity Portal  
-> 📁 Reference folder: [2025 TWSP PRJ 3 - Google Drive](https://drive.google.com/drive/folders/1U9huHhSX8FmoOTKJr4yRHnbUDC1D-fW6?fbclid=IwY2xjawKzJ9VleHRuA2FlbQIxMQABHpYChYQ3WrfMM1UHjdOEBE_b1m_WLvaL_VgJPI18DztBzeuKcl2vVZnw9I0O_aem_E9YEveESmY_9yE91p2Ehgg)
+
 
 Feel free to explore each task folder for source code, documentation, and sample outputs.
